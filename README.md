@@ -1,2 +1,2 @@
 # diplom
-vkinder diplom
+diplom
